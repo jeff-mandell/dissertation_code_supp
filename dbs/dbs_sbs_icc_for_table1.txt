@@ -1,0 +1,4 @@
+group	number of sites	intra-class correlation	95% CI
+DBS/SBS same codon change	183	0.69	(0.6, 0.76)
+SBS/SBS same codon change	113	0.52	(0.38, 0.65)
+SBS same codon synonymous	135	-0.04	(-0.2, 0.13)

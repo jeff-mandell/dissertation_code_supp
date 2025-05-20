@@ -1,0 +1,16 @@
+Unique_Patient_Identifier	sex	age	cca_type	fluke_status
+chan-on_00990196T	F	77	EHC	NA
+chan-on_02000123T	F	73	IHC	NA
+chan-on_02000861T	F	69	IHC	negative
+chan-on_17231203T	F	61	IHC	NA
+chan-on_21914187T	F	67	IHC	NA
+chan-on_23474504T	F	51	IHC	NA
+chan-on_29150572T	M	61	IHC	NA
+chan-on_33587479T	M	51	IHC	NA
+chan-on_72600277T	M	55	IHC	NA
+chan-on_77071507T	M	49	IHC	NA
+chan-on_0715T	M	64	EHC	negative
+chan-on_0824T	M	68	EHC	negative
+chan-on_0930T	M	70	EHC	negative
+chan-on_1202T	F	49	EHC	negative
+chan-on_3001T	F	69	IHC	negative

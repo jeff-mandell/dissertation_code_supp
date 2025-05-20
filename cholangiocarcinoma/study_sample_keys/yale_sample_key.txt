@@ -1,0 +1,19 @@
+Unique_Patient_Identifier	cca_type	pM	age	sex
+yale_i1	IHC		75	F
+yale_i2	IHC			F
+yale_i3	IHC			M
+yale_i4	IHC		60	F
+yale_i5	IHC			M
+yale_i6	IHC		57	F
+yale_i7	IHC			F
+yale_p1	PHC		80	M
+yale_d1	DCC	0		F
+yale_d2	DCC	0	64	M
+yale_d3	DCC	0		M
+yale_d4	DCC		70	F
+yale_d5	DCC	0		M
+yale_d6	DCC		77	M
+yale_d7	DCC		73	F
+yale_d8	DCC	0	69	M
+yale_d9	DCC	0		F
+yale_d10	DCC		74	M

@@ -1,0 +1,8 @@
+Unique_Patient_Identifier	cca_type	fluke_status	age	sex	pM
+gao_P1026T	IHC	negative	61	F	0
+gao_P0872T	IHC	negative	63	M	0
+gao_P7913T	IHC	negative	47	M	0
+gao_P4139T	IHC	negative	44	M	0
+gao_P5549T	IHC	negative	68	F	0
+gao_P9678T	IHC	negative	54	M	0
+gao_P7251T	IHC	negative	42	M	0

@@ -1,0 +1,7 @@
+Unique_Patient_Identifier	cca_type	age	sex	pM	surv_status	surv_month	fluke_status	fgfr2_fusion
+borad_1	IHC	64	F	0	0	14.5	negative	FALSE
+borad_2	IHC	66	M	0	1	8.8	negative	FALSE
+borad_3	IHC	50	M	1	1	9	negative	FALSE
+borad_4	IHC	62	F	1	0	9.3	negative	TRUE
+borad_5	IHC	50	F	1	1	4.1	negative	TRUE
+borad_6	IHC	43	F	1	0	5.5	negative	TRUE

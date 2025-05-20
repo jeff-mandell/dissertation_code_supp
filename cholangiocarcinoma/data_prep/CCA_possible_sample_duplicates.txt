@@ -1,0 +1,20 @@
+sample_A	sample_B	source_A	source_B	variants_A	variants_B	variants_shared	greater_overlap	decision
+jusakul_CCA_SG_1	chan-on_02000123T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV4-UTR.maf.gz	7129	213	204	0.958	exclude B
+jusakul_CCA_SG_4	chan-on_29150572T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV1.maf.gz	1177	23	21	0.913	exclude B
+TCGA-W5-AA2T	jiao_CHOL11	TCGA-CHOL.maf.gz	jiao.maf.gz	37	39	33	0.892	exclude B
+nepal_Patient13	jiao_CHOL14	nepal.maf.gz	jiao.maf.gz	50	44	37	0.841	exclude A
+jusakul_CCA_SG_6	chan-on_33587479T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV1.maf.gz	1274	32	26	0.812	exclude B
+nepal_Patient6	jiao_CHOL13	nepal.maf.gz	jiao.maf.gz	26	24	19	0.792	exclude A
+jiao_CHOL42	P-0038153-T01-IM6	jiao.maf.gz	MSK_2021_IHCH_IMPACT468.maf.gz	23	4	3	0.75	keep both
+nepal_Patient5	TCGA-W5-AA2G	nepal.maf.gz	TCGA-CHOL.maf.gz	47	39	28	0.718	exclude A
+jusakul_CCA_SG_16	chan-on_72600277T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV1.maf.gz	1449	33	22	0.667	exclude B
+jusakul_CCA_SG_11	chan-on_02000861T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV1.maf.gz	1625	50	32	0.64	exclude B
+jusakul_CCA_RO_7	chan-on_0824T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV1.maf.gz	1491	57	36	0.632	exclude B
+jusakul_CCA_RO_2	chan-on_1202T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV1.maf.gz	4159	97	50	0.515	exclude B
+jusakul_CCA_TH_75	jusakul_CCA_TH_129	jusakul_tgs.maf.gz	jusakul_tgs.maf.gz	5	12	2	0.4	keep both
+jusakul_CCA_SG_2	chan-on_21914187T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV1.maf.gz	1049	42	15	0.357	exclude B
+gao_P7251T	gao_P1026T	gao_CCA.maf.gz	gao_CCA.maf.gz	273	204	63	0.309	exclude B
+zou_64	zou_61	zou.maf.gz	zou.maf.gz	43	12	3	0.25	keep both
+jusakul_CCA_RO_5	chan-on_3001T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV4-UTR.maf.gz	2284	944	72	0.076	exclude B
+jusakul_CCA_SG_3	chan-on_23474504T	btca_sg_wgs_jusakul.maf.gz	chan-on_SureSelectV4-UTR.maf.gz	1060	1002	40	0.04	exclude B
+zou_90	zou_145	zou.maf.gz	zou.maf.gz	241	132	3	0.023	keep both

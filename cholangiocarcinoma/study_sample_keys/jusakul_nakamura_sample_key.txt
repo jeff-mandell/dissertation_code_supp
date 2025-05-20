@@ -1,0 +1,438 @@
+icgc_donor_id	jusakul_id	Unique_Patient_Identifier	nakamura_id	cca_type	pM	PSC	sex	source	icgc_sample_id	fluke_status	HBV	HCV	age	surv_status	surv_month	fgfr2_fusion	other_fusion	excludes_synonymous
+		nakamura_BD5	BD5	IHC		N	F	nakamura								FALSE	FALSE	
+		nakamura_BD131	BD131	PHC	0	N	M	nakamura							45.9301848049281	FALSE	FALSE	
+		nakamura_BD208	BD208	PHC		N	M	nakamura								FALSE	FALSE	
+		nakamura_BD209	BD209	PHC		N	M	nakamura								FALSE	FALSE	
+		nakamura_BD210	BD210	IHC		N	F	nakamura								FALSE	TRUE	
+	CCA_JP_100	nakamura_BD96	BD96	PHC	0	N	M	nakamura		negative	Negative	Negative			29.5359342915811	FALSE	FALSE	
+	CCA_JP_101	nakamura_BD98	BD98	DCC	0	N	F	nakamura		negative	Negative	Negative			67.9096509240247	FALSE	FALSE	
+	CCA_JP_102	nakamura_BD99	BD99	PHC	0	N	M	nakamura		negative	Negative	Negative			28.7145790554415	FALSE	FALSE	
+	CCA_JP_103	nakamura_BD101	BD101	IHC	0	N	M	nakamura		negative	Negative	Negative			60.0903490759754	FALSE	TRUE	
+	CCA_JP_104	nakamura_BD102	BD102	IHC	0	N	M	nakamura		negative	Negative	Positive			37.5195071868583	FALSE	FALSE	
+	CCA_JP_105	nakamura_BD103	BD103	IHC	0	N	M	nakamura		negative	Negative	Negative			60.9774127310062	FALSE	FALSE	
+	CCA_JP_106	nakamura_BD105	BD105	IHC	0	N	F	nakamura		negative	Negative	Negative			65.0841889117043	FALSE	TRUE	
+	CCA_JP_107	nakamura_BD106	BD106	PHC	0	N	M	nakamura		negative	Negative	Negative			20.0082135523614	FALSE	FALSE	
+	CCA_JP_108	nakamura_BD107	BD107	PHC	0	N	F	nakamura		negative	Negative	Negative			65.1498973305955	FALSE	FALSE	
+	CCA_JP_109	nakamura_BD108	BD108	DCC	0	N	M	nakamura		negative	Negative	Negative			29.5359342915811	FALSE	FALSE	
+	CCA_JP_11	nakamura_BD1	BD1	PHC	0	N	M	nakamura		negative	Negative	Negative			9.23203285420944	FALSE	FALSE	
+	CCA_JP_110	nakamura_BD109	BD109	IHC	0	N	M	nakamura		negative	Negative	Negative			12.4845995893224	FALSE	FALSE	
+	CCA_JP_111	nakamura_BD110	BD110	PHC	0	N	M	nakamura		negative	Negative	Negative			23.0636550308008	FALSE	FALSE	
+	CCA_JP_112	nakamura_BD111	BD111	IHC	0	N	M	nakamura		negative	Negative	Negative			22.3737166324435	FALSE	FALSE	
+	CCA_JP_113	nakamura_BD112	BD112	PHC	0	N	F	nakamura		negative	Negative	Negative			41.1991786447639	FALSE	TRUE	
+	CCA_JP_114	nakamura_BD113	BD113	PHC	0	N	M	nakamura		negative	Negative	Negative			3.61396303901437	FALSE	FALSE	
+	CCA_JP_115	nakamura_BD114	BD114	IHC	0	N	M	nakamura		negative	Negative	Negative			5.94661190965092	FALSE	FALSE	
+	CCA_JP_116	nakamura_BD116	BD116	PHC	0	N	F	nakamura		negative	Negative	Negative			54.3080082135524	FALSE	FALSE	
+	CCA_JP_117	nakamura_BD117	BD117	IHC	0	N	M	nakamura		negative	Negative	Negative			29.3716632443532	FALSE	TRUE	
+	CCA_JP_118	nakamura_BD118	BD118	IHC	0	N	M	nakamura		negative	Negative	Negative			27.958932238193	FALSE	FALSE	
+	CCA_JP_119	nakamura_BD119	BD119	DCC	0	N	M	nakamura		negative	Negative	Negative			9.13347022587269	FALSE	FALSE	
+	CCA_JP_12	nakamura_BD2	BD2	PHC	0	N	M	nakamura		negative	Negative	Negative			7.49075975359343	FALSE	FALSE	
+	CCA_JP_120	nakamura_BD120	BD120	IHC	0	N	M	nakamura		negative	Negative	Negative			10.0862422997947	FALSE	FALSE	
+	CCA_JP_121	nakamura_BD121	BD121	IHC	0	N	F	nakamura		negative	Negative	Negative			43.8603696098563	FALSE	FALSE	
+	CCA_JP_122	nakamura_BD122	BD122	DCC	0	N	M	nakamura		negative	Negative	Negative			29.1416837782341	FALSE	FALSE	
+	CCA_JP_123	nakamura_BD123	BD123	PHC	0	N	M	nakamura		negative	Negative	Negative			44.2874743326489	FALSE	FALSE	
+	CCA_JP_124	nakamura_BD124	BD124	IHC	0	N	M	nakamura		negative	Negative	Negative			41.5934291581109	FALSE	TRUE	
+	CCA_JP_125	nakamura_BD125	BD125	IHC	0	N	M	nakamura		negative	Negative	Negative			33.4127310061602	FALSE	FALSE	
+	CCA_JP_126	nakamura_BD126	BD126	IHC	0	N	M	nakamura		negative	Negative	Negative			38.1108829568789	FALSE	FALSE	
+	CCA_JP_127	nakamura_BD127	BD127	IHC	0	N	M	nakamura		negative	Negative	Negative			21.1252566735113	FALSE	FALSE	
+	CCA_JP_128	nakamura_BD128	BD128	DCC	0	N	M	nakamura		negative	Negative	Negative			47.1786447638604	FALSE	FALSE	
+	CCA_JP_129	nakamura_BD130	BD130	IHC	0	N	M	nakamura		negative	Negative	Negative			12.9445585215606	FALSE	FALSE	
+	CCA_JP_13	nakamura_BD3	BD3	IHC	0	N	M	nakamura		negative	Negative	Negative			5.45379876796715	FALSE	FALSE	
+	CCA_JP_130	nakamura_BD132	BD132	IHC	0	N	F	nakamura		negative	Positive	Negative			14.6201232032854	FALSE	FALSE	
+	CCA_JP_131	nakamura_BD133	BD133	IHC	0	N	F	nakamura		negative	Negative	Negative			37.2895277207392	FALSE	FALSE	
+	CCA_JP_132	nakamura_BD135	BD135	IHC	0	N	M	nakamura		negative	Negative	Negative			62.7843942505134	FALSE	FALSE	
+	CCA_JP_133	nakamura_BD136	BD136	PHC	0	N	M	nakamura		negative	Negative	Negative			43.170431211499	FALSE	FALSE	
+	CCA_JP_134	nakamura_BD137	BD137	IHC	0	N	M	nakamura		negative	Negative	Negative			37.782340862423	FALSE	FALSE	
+	CCA_JP_135	nakamura_BD138	BD138	IHC	0	N	M	nakamura		negative	Negative	Positive			0.131416837782341	FALSE	TRUE	
+	CCA_JP_136	nakamura_BD140	BD140	IHC	0	N	M	nakamura		negative	Negative	Negative			8.6735112936345	FALSE	TRUE	
+	CCA_JP_137	nakamura_BD142	BD142	IHC	0	N	M	nakamura		negative	Negative	Positive			35.088295687885	FALSE	TRUE	
+	CCA_JP_138	nakamura_BD143	BD143	IHC	0	N	F	nakamura		negative	Negative	Negative			5.32238193018481	FALSE	FALSE	
+	CCA_JP_139	nakamura_BD144	BD144	DCC	0	N	M	nakamura		negative	Negative	Negative			20.9281314168378	FALSE	FALSE	
+	CCA_JP_14	nakamura_BD4	BD4	DCC	0	N	M	nakamura		negative	Negative	Negative			25.7577002053388	FALSE	FALSE	
+	CCA_JP_140	nakamura_BD145	BD145	IHC	0	N	F	nakamura		negative	Negative	Positive			31.4414784394251	FALSE	FALSE	
+	CCA_JP_141	nakamura_BD146	BD146	IHC	0	N	M	nakamura		negative	Negative	Negative			22.0123203285421	FALSE	FALSE	
+	CCA_JP_142	nakamura_BD147	BD147	IHC	0	N	M	nakamura		negative	Negative	Negative			2.72689938398357	FALSE	TRUE	
+	CCA_JP_143	nakamura_BD148	BD148	IHC	0	N	M	nakamura		negative	Negative	Negative			8.6735112936345	FALSE	FALSE	
+	CCA_JP_144	nakamura_BD149	BD149	IHC	0	N	M	nakamura		negative	Negative	Negative			13.2402464065708	FALSE	TRUE	
+	CCA_JP_145	nakamura_BD150	BD150	IHC	0	N	F	nakamura		negative	Positive	Negative			19.1211498973306	FALSE	FALSE	
+	CCA_JP_146	nakamura_BD151	BD151	IHC	0	N	F	nakamura		negative	Negative	Negative			13.7659137577002	FALSE	FALSE	
+	CCA_JP_147	nakamura_BD152	BD152	IHC	0	N	M	nakamura		negative	Negative	Negative			25.1991786447639	FALSE	TRUE	
+	CCA_JP_148	nakamura_BD153	BD153	IHC	0	N	F	nakamura		negative	Negative	Negative			20.5010266940452	FALSE	FALSE	
+	CCA_JP_149	nakamura_BD154	BD154	IHC	0	N	M	nakamura		negative	Negative	Positive			4.435318275154	FALSE	FALSE	
+	CCA_JP_150	nakamura_BD155	BD155	PHC	0	N	F	nakamura		negative	Negative	Negative			6.8993839835729	FALSE	FALSE	
+	CCA_JP_151	nakamura_BD156	BD156	IHC	0	N	M	nakamura		negative	Negative	Negative			14.0616016427105	FALSE	FALSE	
+	CCA_JP_152	nakamura_BD157	BD157	IHC	0	N	F	nakamura		negative	Negative	Negative			15.5071868583162	FALSE	FALSE	
+	CCA_JP_153	nakamura_BD158	BD158	DCC	0	N	M	nakamura		negative	Negative	Negative			15.6714579055441	FALSE	TRUE	
+	CCA_JP_154	nakamura_BD159	BD159	IHC	0	N	M	nakamura		negative	Negative	Negative			16.5256673511294	FALSE	FALSE	
+	CCA_JP_155	nakamura_BD160	BD160	DCC	0	N	M	nakamura		negative	Negative	Negative			1.1170431211499	FALSE	FALSE	
+	CCA_JP_156	nakamura_BD161	BD161	DCC	0	N	M	nakamura		negative	Negative	Negative			12.7474332648871	FALSE	TRUE	
+	CCA_JP_157	nakamura_BD162	BD162	PHC	0	N	M	nakamura		negative	Negative	Negative			10.3162217659138	FALSE	FALSE	
+	CCA_JP_158	nakamura_BD163	BD163	PHC	0	N	M	nakamura		negative	Negative	Negative			8.77207392197125	FALSE	TRUE	
+	CCA_JP_159	nakamura_BD164	BD164	PHC	0	N	M	nakamura		negative	Negative	Negative			12.4517453798768	FALSE	FALSE	
+	CCA_JP_16	nakamura_BD6	BD6	IHC	0	N	M	nakamura		negative	Negative	Negative			25.7577002053388	FALSE	FALSE	
+	CCA_JP_160	nakamura_BD165	BD165	IHC	0	N	M	nakamura		negative	Negative	Negative			11.7618069815195	FALSE	FALSE	
+	CCA_JP_161	nakamura_BD166	BD166	PHC	0	N	M	nakamura		negative	Negative	Negative			10.776180698152	FALSE	TRUE	
+	CCA_JP_162	nakamura_BD168	BD168	IHC	0	N	M	nakamura		negative	Negative	Negative			7.22792607802875	FALSE	TRUE	
+	CCA_JP_163	nakamura_BD169	BD169	IHC	0	N	M	nakamura		negative	Negative	Negative			4.79671457905544	FALSE	FALSE	
+	CCA_JP_164	nakamura_BD197	BD197	IHC	0	N	F	nakamura		negative	Negative	Negative			16.4599589322382	TRUE	FALSE	
+	CCA_JP_165	nakamura_BD199	BD199	IHC	0	N	F	nakamura		negative	Negative	Negative			7.3264887063655	FALSE	FALSE	
+	CCA_JP_166	nakamura_BD200	BD200	IHC	0	N	F	nakamura		negative	Negative	Negative			74.217659137577	FALSE	FALSE	
+	CCA_JP_167	nakamura_BD201	BD201	IHC	0	N	F	nakamura		negative	Negative	Negative			46.7843942505134	FALSE	TRUE	
+	CCA_JP_168	nakamura_BD203	BD203	IHC	0	N	M	nakamura		negative	Negative	Negative			4.30390143737166	FALSE	FALSE	
+	CCA_JP_169	nakamura_BD204	BD204	PHC	0	N	F	nakamura		negative	Negative	Negative			3.48254620123203	FALSE	FALSE	
+	CCA_JP_17	nakamura_BD7	BD7	DCC	0	N	M	nakamura		negative	Negative	Negative			102.702258726899	FALSE	FALSE	
+	CCA_JP_170	nakamura_BD205	BD205	DCC	0	N	M	nakamura		negative	Negative	Negative			2.72689938398357	FALSE	TRUE	
+	CCA_JP_171	nakamura_BD207	BD207	DCC	0	N	M	nakamura		negative	Negative	Negative			2.23408624229979	FALSE	FALSE	
+	CCA_JP_175	nakamura_BD211	BD211	IHC	0	N	M	nakamura		negative	Negative	Negative			11.2032854209446	FALSE	FALSE	
+	CCA_JP_176	nakamura_BD212	BD212	IHC	0	N	F	nakamura		negative	Negative	Negative			22.8008213552361	FALSE	FALSE	
+	CCA_JP_177	nakamura_BD213	BD213	IHC	0	N	M	nakamura		negative	Negative	Negative			6.83367556468173	FALSE	FALSE	
+	CCA_JP_178	nakamura_BD214	BD214	IHC	0	N	M	nakamura		negative	Negative	Negative			4.10677618069815	FALSE	FALSE	
+	CCA_JP_18	nakamura_BD8	BD8	IHC	0	N	M	nakamura		negative	Negative	Negative			96.394250513347	FALSE	FALSE	
+	CCA_JP_181	nakamura_BD217	BD217	IHC	0	N	M	nakamura		negative	Negative	Negative			30.6201232032854	FALSE	FALSE	
+	CCA_JP_182	nakamura_BD218	BD218	IHC	0	N	M	nakamura		negative	Negative	Negative			19.7453798767967	FALSE	FALSE	
+	CCA_JP_183	nakamura_BD219	BD219	IHC	0	N	F	nakamura		negative	Positive	Negative			42.0862422997947	FALSE	FALSE	
+	CCA_JP_184	nakamura_BD220	BD220	IHC	0	N	M	nakamura		negative	Negative	Positive			15.047227926078	FALSE	TRUE	
+	CCA_JP_185	nakamura_BD221	BD221	IHC	0	N	F	nakamura		negative	Negative	Negative			33.2813141683778	FALSE	FALSE	
+	CCA_JP_186	nakamura_BD222	BD222	IHC	0	N	F	nakamura		negative	Negative	Negative			31.0800821355236	FALSE	TRUE	
+	CCA_JP_187	nakamura_BD223	BD223	IHC	0	N	F	nakamura		negative	Negative	Negative			23.7207392197125	FALSE	FALSE	
+	CCA_JP_188	nakamura_BD224	BD224	IHC	0	N	F	nakamura		negative	Negative	Negative			26.8747433264887	FALSE	FALSE	
+	CCA_JP_189	nakamura_BD225	BD225	IHC	0	N	M	nakamura		negative	Negative	Negative			4.50102669404517	FALSE	FALSE	
+	CCA_JP_19	nakamura_BD9	BD9	PHC	0	N	M	nakamura		negative	Negative	Negative			34.0698151950719	FALSE	FALSE	
+	CCA_JP_190	nakamura_BD226	BD226	IHC	0	N	M	nakamura		negative	Negative	Negative			25.9548254620123	FALSE	TRUE	
+	CCA_JP_191	nakamura_BD227	BD227	IHC	0	N	F	nakamura		negative	Negative	Negative			9.10061601642711	FALSE	FALSE	
+	CCA_JP_192	nakamura_BD228	BD228	IHC	0	N	M	nakamura		negative	Negative	Negative			26.0533880903491	FALSE	FALSE	
+	CCA_JP_193	nakamura_BD229	BD229	IHC	0	N	F	nakamura		negative	Negative	Negative			4.73100616016427	FALSE	FALSE	
+	CCA_JP_194	nakamura_BD230	BD230	IHC	0	N	F	nakamura		negative	Negative	Negative			15.9671457905544	FALSE	FALSE	
+	CCA_JP_195	nakamura_BD231	BD231	IHC	0	N	M	nakamura		negative	Negative	Negative			21.2895277207392	FALSE	FALSE	
+	CCA_JP_196	nakamura_BD232	BD232	IHC	0	N	M	nakamura		negative	Negative	Negative			46.9158110882957	FALSE	FALSE	
+	CCA_JP_197	nakamura_BD233	BD233	IHC	0	N	F	nakamura		negative	Negative	Negative			6.4394250513347	FALSE	FALSE	
+	CCA_JP_198	nakamura_BD234	BD234	IHC	0	N	M	nakamura		negative	Negative	Negative			7.16221765913758	FALSE	FALSE	
+	CCA_JP_199	nakamura_BD235	BD235	DCC	0	N	M	nakamura		negative	Negative	Negative			14.3901437371663	FALSE	FALSE	
+	CCA_JP_20	nakamura_BD10	BD10	IHC	0	N	M	nakamura		negative	Negative	Negative			37.8809034907598	FALSE	FALSE	
+	CCA_JP_200	nakamura_BD236	BD236	PHC	0	N	F	nakamura		negative	Negative	Positive			78.8501026694045	FALSE	FALSE	
+	CCA_JP_201	nakamura_BD237	BD237	IHC	0	N	F	nakamura		negative	Negative	Negative			118.603696098563	FALSE	FALSE	
+	CCA_JP_202	nakamura_BD238	BD238	IHC	0	N	M	nakamura		negative	Negative	Negative			28.3860369609856	FALSE	FALSE	
+	CCA_JP_203	nakamura_BD239	BD239	IHC	0	N	M	nakamura		negative	Negative	Negative			37.0595482546201	FALSE	FALSE	
+	CCA_JP_204	nakamura_BD240	BD240	DCC	0	N	F	nakamura		negative	Negative	Negative			57.7577002053388	FALSE	FALSE	
+	CCA_JP_205	nakamura_BD241	BD241	PHC	0	N	F	nakamura		negative	Negative	Negative			69.5852156057495	FALSE	TRUE	
+	CCA_JP_206	nakamura_BD242	BD242	IHC	0	N	F	nakamura		negative	Negative	Negative			69.8809034907598	FALSE	FALSE	
+	CCA_JP_207	nakamura_BD243	BD243	IHC	0	N	M	nakamura		negative	Negative	Negative			10.9733059548255	FALSE	TRUE	
+	CCA_JP_208	nakamura_BD244	BD244	IHC	0	N	F	nakamura		negative	Negative	Negative			32.0657084188912	FALSE	FALSE	
+	CCA_JP_209	nakamura_BD245	BD245	IHC	0	N	M	nakamura		negative	Negative	Negative			21.1252566735113	FALSE	FALSE	
+	CCA_JP_21	nakamura_BD11	BD11	PHC	0	N	F	nakamura		negative	Negative	Negative			19.1540041067762	FALSE	FALSE	
+	CCA_JP_210	nakamura_BD247	BD247	IHC		N	F	nakamura		negative	Negative	Negative			1.67556468172485	FALSE	FALSE	
+	CCA_JP_22	nakamura_BD12	BD12	IHC	0	N	F	nakamura		negative	Negative	Negative			17.4784394250513	FALSE	FALSE	
+	CCA_JP_23	nakamura_BD13	BD13	DCC	0	N	M	nakamura		negative	Negative	Negative			94.6858316221766	FALSE	FALSE	
+	CCA_JP_24	nakamura_BD14	BD14	IHC	0	N	M	nakamura		negative	Negative	Negative			53.3552361396304	FALSE	FALSE	
+	CCA_JP_25	nakamura_BD15	BD15	IHC	0	N	M	nakamura		negative	Negative	Negative			5.94661190965092	FALSE	FALSE	
+	CCA_JP_26	nakamura_BD16	BD16	DCC	0	N	M	nakamura		negative	Negative	Negative			16.0657084188912	FALSE	FALSE	
+	CCA_JP_27	nakamura_BD18	BD18	IHC	0	N	F	nakamura		negative	Negative	Negative			9.82340862422998	FALSE	FALSE	
+	CCA_JP_28	nakamura_BD19	BD19	IHC	0	N	F	nakamura		negative	Negative	Negative			78.258726899384	FALSE	FALSE	
+	CCA_JP_29	nakamura_BD20	BD20	PHC	0	N	M	nakamura		negative	Negative	Negative			79.605749486653	FALSE	FALSE	
+	CCA_JP_30	nakamura_BD22	BD22	DCC	0	N	M	nakamura		negative	Negative	Negative			76.1889117043121	FALSE	FALSE	
+	CCA_JP_31	nakamura_BD23	BD23	IHC	0	N	M	nakamura		negative	Negative	Negative			10.4804928131417	FALSE	FALSE	
+	CCA_JP_32	nakamura_BD24	BD24	IHC	0	N	M	nakamura		negative	Negative	Negative			75.0390143737166	FALSE	FALSE	
+	CCA_JP_33	nakamura_BD25	BD25	IHC	0	N	F	nakamura		negative	Negative	Negative			13.2073921971253	FALSE	FALSE	
+	CCA_JP_34	nakamura_BD26	BD26	IHC	0	N	M	nakamura		negative	Negative	Negative			73.0349075975359	FALSE	FALSE	
+	CCA_JP_35	nakamura_BD27	BD27	IHC	0	N	M	nakamura		negative	Negative	Negative			60.7474332648871	FALSE	FALSE	
+	CCA_JP_36	nakamura_BD28	BD28	IHC	0	N	F	nakamura		negative	Negative	Negative			72.4106776180698	FALSE	FALSE	
+	CCA_JP_37	nakamura_BD29	BD29	IHC	0	N	M	nakamura		negative	Negative	Negative			1.74127310061602	FALSE	FALSE	
+	CCA_JP_38	nakamura_BD30	BD30	IHC	0	N	M	nakamura		negative	Positive	Negative			85.6837782340863	FALSE	FALSE	
+	CCA_JP_39	nakamura_BD31	BD31	IHC	0	N	F	nakamura		negative	Negative	Negative			28.9774127310062	FALSE	FALSE	
+	CCA_JP_40	nakamura_BD32	BD32	IHC	0	N	M	nakamura		negative	Negative	Negative			24.6078028747433	FALSE	FALSE	
+	CCA_JP_41	nakamura_BD34	BD34	PHC	0	N	M	nakamura		negative	Negative	Negative			11.6632443531828	FALSE	FALSE	
+	CCA_JP_42	nakamura_BD35	BD35	DCC	0	N	M	nakamura		negative	Negative	Negative			22.0780287474333	FALSE	FALSE	
+	CCA_JP_43	nakamura_BD36	BD36	IHC	0	N	F	nakamura		negative	Negative	Negative			73.3963039014374	FALSE	FALSE	
+	CCA_JP_44	nakamura_BD37	BD37	DCC	0	N	M	nakamura		negative	Negative	Negative			12.7802874743327	FALSE	FALSE	
+	CCA_JP_45	nakamura_BD38	BD38	IHC	0	N	F	nakamura		negative	Negative	Negative			23.3921971252567	FALSE	FALSE	
+	CCA_JP_46	nakamura_BD39	BD39	PHC	0	N	M	nakamura		negative	Negative	Negative			109.634496919918	FALSE	FALSE	
+	CCA_JP_47	nakamura_BD40	BD40	IHC	0	N	F	nakamura		negative	Negative	Negative			58.8418891170431	FALSE	FALSE	
+	CCA_JP_48	nakamura_BD41	BD41	IHC	0	N	M	nakamura		negative	Negative	Positive			21.4866529774127	FALSE	FALSE	
+	CCA_JP_49	nakamura_BD42	BD42	IHC	0	N	M	nakamura		negative	Negative	Positive			101.223819301848	FALSE	FALSE	
+	CCA_JP_50	nakamura_BD43	BD43	PHC	0	N	M	nakamura		negative	Negative	Negative			75.170431211499	FALSE	FALSE	
+	CCA_JP_51	nakamura_BD44	BD44	DCC	0	N	M	nakamura		negative	Negative	Negative			16.4599589322382	FALSE	FALSE	
+	CCA_JP_52	nakamura_BD45	BD45	IHC	0	N	F	nakamura		negative	Negative	Positive			64.952772073922	FALSE	FALSE	
+	CCA_JP_53	nakamura_BD46	BD46	IHC	0	N	M	nakamura		negative	Negative	Negative			35.9425051334702	FALSE	FALSE	
+	CCA_JP_54	nakamura_BD47	BD47	IHC	0	N	M	nakamura		negative	Negative	Negative			95.7371663244353	FALSE	FALSE	
+	CCA_JP_55	nakamura_BD48	BD48	DCC	0	N	M	nakamura		negative	Negative	Negative			95.9342915811088	FALSE	FALSE	
+	CCA_JP_56	nakamura_BD49	BD49	PHC	0	N	F	nakamura		negative	Negative	Negative			94.5872689938398	FALSE	FALSE	
+	CCA_JP_57	nakamura_BD50	BD50	IHC	0	N	M	nakamura		negative	Positive	Negative			55.0636550308008	FALSE	FALSE	
+	CCA_JP_58	nakamura_BD51	BD51	PHC	0	N	M	nakamura		negative	Negative	Negative			56.6406570841889	FALSE	FALSE	
+	CCA_JP_59	nakamura_BD52	BD52	PHC	0	N	M	nakamura		negative	Negative	Negative			91.2032854209446	FALSE	FALSE	
+	CCA_JP_60	nakamura_BD53	BD53	PHC	0	N	M	nakamura		negative	Negative	Negative			43.8275154004107	FALSE	FALSE	
+	CCA_JP_61	nakamura_BD54	BD54	IHC	0	N	F	nakamura		negative	Negative	Negative			21.2238193018481	FALSE	FALSE	
+	CCA_JP_62	nakamura_BD55	BD55	DCC	0	N	M	nakamura		negative	Negative	Negative			89.5277207392197	FALSE	FALSE	
+	CCA_JP_63	nakamura_BD56	BD56	IHC	0	N	M	nakamura		negative	Negative	Negative			45.3388090349076	FALSE	FALSE	
+	CCA_JP_64	nakamura_BD57	BD57	IHC	0	N	M	nakamura		negative	Negative	Negative			90.5462012320329	FALSE	FALSE	
+	CCA_JP_65	nakamura_BD58	BD58	IHC	0	N	M	nakamura		negative	Negative	Negative			13.5359342915811	FALSE	FALSE	
+	CCA_JP_66	nakamura_BD59	BD59	DCC	0	N	M	nakamura		negative	Negative	Negative			96.2299794661191	FALSE	FALSE	
+	CCA_JP_67	nakamura_BD60	BD60	PHC	0	N	M	nakamura		negative	Negative	Negative			10.8090349075975	FALSE	FALSE	
+	CCA_JP_68	nakamura_BD61	BD61	DCC	0	N	M	nakamura		negative	Negative	Negative			98.0698151950719	FALSE	FALSE	
+	CCA_JP_69	nakamura_BD62	BD62	PHC	0	N	M	nakamura		negative	Negative	Negative			15.6714579055441	FALSE	FALSE	
+	CCA_JP_70	nakamura_BD63	BD63	PHC	0	N	M	nakamura		negative	Negative	Negative			25.1334702258727	FALSE	FALSE	
+	CCA_JP_71	nakamura_BD64	BD64	PHC	0	N	F	nakamura		negative	Negative	Negative			13.3388090349076	FALSE	FALSE	
+	CCA_JP_72	nakamura_BD65	BD65	DCC	0	N	M	nakamura		negative	Negative	Negative			29.6344969199179	FALSE	FALSE	
+	CCA_JP_73	nakamura_BD66	BD66	IHC	0	N	M	nakamura		negative	Negative	Negative			5.35523613963039	FALSE	FALSE	
+	CCA_JP_74	nakamura_BD67	BD67	PHC	0	N	M	nakamura		negative	Negative	Negative			70.4065708418891	FALSE	FALSE	
+	CCA_JP_75	nakamura_BD68	BD68	PHC	0	N	F	nakamura		negative	Negative	Negative			80.9199178644764	FALSE	FALSE	
+	CCA_JP_76	nakamura_BD69	BD69	IHC	0	N	F	nakamura		negative	Negative	Negative			91.5975359342916	FALSE	FALSE	
+	CCA_JP_77	nakamura_BD70	BD70	IHC	0	N	M	nakamura		negative	Negative	Negative			15.9671457905544	FALSE	FALSE	
+	CCA_JP_78	nakamura_BD71	BD71	DCC	0	N	M	nakamura		negative	Negative	Negative			60.8788501026694	FALSE	FALSE	
+	CCA_JP_79	nakamura_BD72	BD72	IHC	0	N	F	nakamura		negative	Negative	Negative			15.5728952772074	FALSE	FALSE	
+	CCA_JP_80	nakamura_BD73	BD73	DCC	0	N	M	nakamura		negative	Negative	Negative			75.6960985626283	FALSE	FALSE	
+	CCA_JP_81	nakamura_BD74	BD74	IHC	0	N	M	nakamura		negative	Negative	Negative			53.4537987679672	FALSE	FALSE	
+	CCA_JP_82	nakamura_BD75	BD75	IHC	0	N	M	nakamura		negative	Negative	Negative			59.958932238193	FALSE	FALSE	
+	CCA_JP_83	nakamura_BD76	BD76	PHC	0	N	M	nakamura		negative	Negative	Negative			16.4271047227926	FALSE	FALSE	
+	CCA_JP_84	nakamura_BD77	BD77	PHC	0	N	F	nakamura		negative	Negative	Negative			27.7289527720739	FALSE	FALSE	
+	CCA_JP_85	nakamura_BD78	BD78	IHC	0	N	F	nakamura		negative	Negative	Negative			5.12525667351129	FALSE	FALSE	
+	CCA_JP_86	nakamura_BD79	BD79	IHC	0	N	M	nakamura		negative	Negative	Negative			56.5749486652977	FALSE	FALSE	
+	CCA_JP_87	nakamura_BD80	BD80	IHC	0	N	F	nakamura		negative	Negative	Negative			5.94661190965092	FALSE	FALSE	
+	CCA_JP_88	nakamura_BD83	BD83	IHC	0	N	F	nakamura		negative	Negative	Negative			44.4188911704312	FALSE	FALSE	
+	CCA_JP_89	nakamura_BD84	BD84	IHC	0	N	M	nakamura		negative	Negative	Negative			60.2874743326489	FALSE	FALSE	
+	CCA_JP_90	nakamura_BD85	BD85	DCC	0	N	M	nakamura		negative	Negative	Negative			24.8049281314168	FALSE	FALSE	
+	CCA_JP_91	nakamura_BD86	BD86	IHC	0	N	M	nakamura		negative	Negative	Negative			5.71663244353183	FALSE	FALSE	
+	CCA_JP_93	nakamura_BD88	BD88	IHC	0	N	F	nakamura		negative	Negative	Negative			5.74948665297741	FALSE	FALSE	
+	CCA_JP_95	nakamura_BD91	BD91	PHC	0	N	M	nakamura		negative	Negative	Negative			2.95687885010267	FALSE	FALSE	
+	CCA_JP_96	nakamura_BD92	BD92	IHC	0	N	M	nakamura		negative	Negative	Negative			71.3593429158111	FALSE	FALSE	
+	CCA_JP_97	nakamura_BD93	BD93	PHC	0	N	M	nakamura		negative	Negative	Negative			7.39219712525667	FALSE	FALSE	
+	CCA_JP_98	nakamura_BD94	BD94	PHC	0	N	M	nakamura		negative	Negative	Negative			55.3264887063655	FALSE	FALSE	
+	CCA_JP_99	nakamura_BD95	BD95	IHC	0	N	M	nakamura		negative	Negative	Negative			70.1108829568789	FALSE	FALSE	
+	CCA_BR_1	jusakul_CCA_BR_1		IHC			M	jusakul		negative	Negative	Negative	53	1	0.854209445585216			TRUE
+	CCA_BR_2	jusakul_CCA_BR_2		IHC	1		F	jusakul		negative	Negative	Negative	49	1	18.5954825462012			TRUE
+	CCA_BR_3	jusakul_CCA_BR_3		IHC	0		M	jusakul		negative			61	1	0.229979466119097			TRUE
+	CCA_FR_1	jusakul_CCA_FR_1		IHC	0		F	jusakul		negative	Negative	Negative	49	0	67.1540041067762			TRUE
+	CCA_FR_2	jusakul_CCA_FR_2		IHC	0		M	jusakul		negative	Negative	Negative	78	0	10.776180698152			TRUE
+	CCA_FR_3	jusakul_CCA_FR_3		IHC	0		F	jusakul		negative	Negative	Negative	60	0	9.19917864476386			TRUE
+	CCA_FR_4	jusakul_CCA_FR_4		IHC	0		M	jusakul		negative	Negative	Negative	75	1	5.19096509240246			TRUE
+	CCA_FR_5	jusakul_CCA_FR_5		IHC	0		F	jusakul		negative	Negative	Negative	76	0	17.3798767967146			TRUE
+	CCA_FR_6	jusakul_CCA_FR_6		IHC	0		M	jusakul		negative	Negative	Negative	68	0	63.211498973306			TRUE
+	CCA_FR_7	jusakul_CCA_FR_7		IHC	0		F	jusakul		negative	Negative	Negative	77	0	8.14784394250513			TRUE
+	CCA_FR_8	jusakul_CCA_FR_8		IHC	0		F	jusakul		negative	Negative	Negative	73	0	73.1006160164271			TRUE
+	CCA_FR_9	jusakul_CCA_FR_9		IHC	0		M	jusakul		negative	Negative	Negative	62	0	55.4907597535934			TRUE
+	CCA_FR_11	jusakul_CCA_FR_11		IHC	0		M	jusakul		negative	Negative	Negative	45	0	102.308008213552			TRUE
+	CCA_FR_12	jusakul_CCA_FR_12		IHC	0		F	jusakul		negative	Negative	Negative	43	0	8.77207392197125			TRUE
+	CCA_FR_13	jusakul_CCA_FR_13		IHC	0		M	jusakul		negative	Negative	Negative	51	1	46.0287474332649			TRUE
+	CCA_FR_14	jusakul_CCA_FR_14		IHC	0		F	jusakul		negative	Negative	Positive	52	0	7.19507186858316			TRUE
+	CCA_FR_15	jusakul_CCA_FR_15		IHC	0		M	jusakul		negative	Negative	Negative	56	0	50.299794661191			TRUE
+	CCA_FR_16	jusakul_CCA_FR_16		IHC	0		F	jusakul		negative	Negative	Negative	78	0	0.624229979466119			TRUE
+	CCA_KR_2	jusakul_CCA_KR_2		IHC			M	jusakul		negative	Negative	Negative	70	1	25.5277207392197			TRUE
+	CCA_RO_9	jusakul_CCA_RO_9		DCC	0		M	jusakul		negative	Negative	Negative	49	1	42.9404517453799			TRUE
+	CCA_RO_13	jusakul_CCA_RO_13		DCC	0		M	jusakul		negative	Negative	Negative	68	1	22.0123203285421			TRUE
+	CCA_RO_14	jusakul_CCA_RO_14		DCC	0		M	jusakul		negative	Negative	Negative	70	1	13.864476386037			TRUE
+	CCA_RO_15	jusakul_CCA_RO_15		PHC	0		F	jusakul		negative	Negative	Negative	61	0	56.5749486652977			TRUE
+	CCA_RO_16	jusakul_CCA_RO_16		DCC	0		F	jusakul		negative	Negative	Negative	58	1	49.7084188911704			TRUE
+	CCA_RO_17	jusakul_CCA_RO_17		DCC	0		M	jusakul		negative	Negative	Negative	61	1	24.8049281314168			TRUE
+	CCA_RO_18	jusakul_CCA_RO_18		IHC	0		M	jusakul		negative	Negative	Negative	65.97260274	1	6.24229979466119			TRUE
+	CCA_RO_19	jusakul_CCA_RO_19		IHC	0		F	jusakul		negative	Negative	Negative	65.78630137	1	17.7084188911704			TRUE
+	CCA_RO_20	jusakul_CCA_RO_20		PHC	0		F	jusakul		negative	Negative	Negative	65	0	65.2484599589323			TRUE
+	CCA_RO_21	jusakul_CCA_RO_21		IHC			F	jusakul		negative	Negative	Negative	75.36164384	1	8.4435318275154			TRUE
+	CCA_RO_22	jusakul_CCA_RO_22		PHC	0		M	jusakul		negative	Negative	Negative	59	1	19.1211498973306			TRUE
+	CCA_RO_23	jusakul_CCA_RO_23		PHC	0		F	jusakul		negative	Negative	Negative	53	1	9.88911704312115			TRUE
+	CCA_RO_25	jusakul_CCA_RO_25		IHC	0		M	jusakul		negative	Negative	Positive	77.68219178	1	11.8932238193018			TRUE
+	CCA_RO_26	jusakul_CCA_RO_26		PHC	0		M	jusakul		negative	Negative	Negative	30	1	44.1232032854209			TRUE
+	CCA_RO_27	jusakul_CCA_RO_27		IHC	0		F	jusakul		negative	Negative	Negative	75.36986301	1	5.48665297741273			TRUE
+	CCA_RO_29	jusakul_CCA_RO_29		PHC	0		M	jusakul		negative	Negative	Negative	72	1	39.7535934291581			TRUE
+	CCA_RO_30	jusakul_CCA_RO_30		PHC	0		M	jusakul		negative	Negative	Negative	72.22465753	1	8.87063655030801			TRUE
+	CCA_RO_31	jusakul_CCA_RO_31		DCC	0		M	jusakul		negative	Negative	Negative	58	1	24.1478439425051			TRUE
+	CCA_RO_33	jusakul_CCA_RO_33		PHC			F	jusakul		negative	Negative	Negative	69	1	62.1601642710472			TRUE
+	CCA_RO_34	jusakul_CCA_RO_34		IHC	0		F	jusakul		negative	Negative	Negative	50	0	38.5379876796715			TRUE
+	CCA_RO_35	jusakul_CCA_RO_35		IHC	0		M	jusakul		negative	Negative	Negative	62.12876712	1	15.5071868583162			TRUE
+	CCA_RO_36	jusakul_CCA_RO_36		IHC	0		M	jusakul		negative	Negative	Negative	44	1	31.1129363449692			TRUE
+	CCA_RO_37	jusakul_CCA_RO_37		IHC	0		M	jusakul		negative	Negative	Negative	49.59726027	1	0.197125256673511			TRUE
+	CCA_RO_38	jusakul_CCA_RO_38		IHC	0		F	jusakul		negative	Negative	Negative	44	1	18.8911704312115			TRUE
+	CCA_RO_40	jusakul_CCA_RO_40		PHC	0		F	jusakul		negative	Negative	Negative	54	0	92.2874743326489			TRUE
+	CCA_SG_21	jusakul_CCA_SG_21		IHC	0		F	jusakul		negative	Positive	Positive	55	0	41.4620123203285			TRUE
+	CCA_SG_22	jusakul_CCA_SG_22		PHC	0		M	jusakul		negative			65	1	0.525667351129363			TRUE
+	CCA_SG_23	jusakul_CCA_SG_23		IHC	1		M	jusakul		negative			63	0	3.25256673511294			TRUE
+	CCA_SG_24	jusakul_CCA_SG_24		PHC	0		F	jusakul		negative	Negative	Negative	45	1	17.347022587269			TRUE
+	CCA_SG_25	jusakul_CCA_SG_25		IHC	0		F	jusakul		negative	Negative	Negative	74	0	37.0924024640657			TRUE
+	CCA_SG_26	jusakul_CCA_SG_26		PHC	1		M	jusakul		negative	Negative		42	0	12.8788501026694			TRUE
+	CCA_SG_28	jusakul_CCA_SG_28		IHC	0		F	jusakul		negative	Negative	Negative	67	0	34.9568788501027			TRUE
+	CCA_SG_29	jusakul_CCA_SG_29		IHC	0		F	jusakul		negative	Negative		39	0	13.3388090349076			TRUE
+	CCA_SG_30	jusakul_CCA_SG_30		EHC	0		M	jusakul		negative	Negative	Negative	62	0	7.95071868583162			TRUE
+	CCA_SG_31	jusakul_CCA_SG_31		IHC	1		M	jusakul		negative	Positive		51	0	1.34702258726899			TRUE
+	CCA_SG_33	jusakul_CCA_SG_33		PHC	0		F	jusakul		negative			68	1	13.4045174537988			TRUE
+	CCA_SG_34	jusakul_CCA_SG_34		PHC	0		M	jusakul		negative			35	0	20.5010266940452			TRUE
+	CCA_SG_35	jusakul_CCA_SG_35		EHC	0		F	jusakul		negative			59	1	15.8685831622177			TRUE
+	CCA_SG_36	jusakul_CCA_SG_36		IHC	0		F	jusakul		negative	Negative	Negative	59	0	11.7289527720739			TRUE
+	CCA_SG_37	jusakul_CCA_SG_37		PHC	0		F	jusakul		negative			61	1	1.80698151950719			TRUE
+	CCA_SG_38	jusakul_CCA_SG_38		EHC	0		F	jusakul		negative			46		7.65503080082136			TRUE
+	CCA_SG_39	jusakul_CCA_SG_39		EHC	0		M	jusakul		negative	Negative	Negative	72	0	8.11498973305955			TRUE
+	CCA_SG_40	jusakul_CCA_SG_40		IHC			F	jusakul		negative	Negative	Negative	69	0	16.9856262833676			TRUE
+	CCA_SG_41	jusakul_CCA_SG_41		IHC			M	jusakul		negative	Positive	Negative	61	0	93.5687885010267			TRUE
+	CCA_SG_42	jusakul_CCA_SG_42		PHC			F	jusakul		negative			71	0	15.211498973306			TRUE
+	CCA_SG_43	jusakul_CCA_SG_43		IHC	0		F	jusakul		negative	Negative	Negative	70	1	0.0985626283367557			TRUE
+	CCA_TH_23	jusakul_CCA_TH_23		PHC	0		F	jusakul		positive			56	1	57.82340862423			TRUE
+	CCA_TH_24	jusakul_CCA_TH_24		PHC	0		M	jusakul		positive			52	1	28.3203285420945			TRUE
+	CCA_TH_25	jusakul_CCA_TH_25		PHC	0		M	jusakul		positive			53	1	30.7186858316222			TRUE
+	CCA_TH_26	jusakul_CCA_TH_26		IHC	0		F	jusakul		positive			52	1	17.1827515400411			TRUE
+	CCA_TH_27	jusakul_CCA_TH_27		IHC	0		F	jusakul		positive	Negative	Negative	72	1	36.7638603696099			TRUE
+	CCA_TH_28	jusakul_CCA_TH_28		IHC	0		F	jusakul		positive	Negative	Negative	52	1	31.047227926078			TRUE
+	CCA_TH_29	jusakul_CCA_TH_29		PHC	1		M	jusakul		positive			49	1	2.33264887063655			TRUE
+	CCA_TH_30	jusakul_CCA_TH_30		PHC	0		M	jusakul		positive			52	1	17.741273100616			TRUE
+	CCA_TH_31	jusakul_CCA_TH_31		IHC	0		M	jusakul		positive	Negative	Negative	55	1	5.05954825462012			TRUE
+	CCA_TH_32	jusakul_CCA_TH_32		PHC	0		M	jusakul		positive			50	1	12.3860369609856			TRUE
+	CCA_TH_33	jusakul_CCA_TH_33		IHC	0		M	jusakul		positive	Negative	Negative	53	1	19.4496919917864			TRUE
+	CCA_TH_34	jusakul_CCA_TH_34		IHC	0		M	jusakul		positive	Negative	Negative	54	1	9.92197125256673			TRUE
+	CCA_TH_35	jusakul_CCA_TH_35		PHC	1		M	jusakul		positive			76	1	0.0985626283367557			TRUE
+	CCA_TH_37	jusakul_CCA_TH_37		IHC	0		F	jusakul		positive	Negative	Negative	51	1	11.7618069815195			TRUE
+	CCA_TH_38	jusakul_CCA_TH_38		IHC	0		F	jusakul		positive	Negative	Negative	53	1	5.12525667351129			TRUE
+	CCA_TH_39	jusakul_CCA_TH_39		IHC	0		M	jusakul		positive			57	0	58.8090349075975			TRUE
+	CCA_TH_41	jusakul_CCA_TH_41		PHC	1		M	jusakul		positive			61	1	12.1232032854209			TRUE
+	CCA_TH_42	jusakul_CCA_TH_42		PHC	0		F	jusakul		positive	Negative	Negative	58	0	57.7577002053388			TRUE
+	CCA_TH_43	jusakul_CCA_TH_43		IHC	0		F	jusakul		positive			38	1	18.3655030800821			TRUE
+	CCA_TH_44	jusakul_CCA_TH_44		PHC	1		M	jusakul		positive			64	1	8.41067761806982			TRUE
+	CCA_TH_45	jusakul_CCA_TH_45		PHC	0		M	jusakul		positive	Negative	Negative	55	1	7.7864476386037			TRUE
+	CCA_TH_46	jusakul_CCA_TH_46		IHC	0		M	jusakul		positive			68	1	24.0164271047228			TRUE
+	CCA_TH_47	jusakul_CCA_TH_47		PHC			M	jusakul		positive			66	0	56.3121149897331			TRUE
+	CCA_TH_48	jusakul_CCA_TH_48		IHC	0		M	jusakul		positive			67	1	43.2689938398357			TRUE
+	CCA_TH_49	jusakul_CCA_TH_49		PHC	1		M	jusakul		positive			50	1	4.17248459958932			TRUE
+	CCA_TH_50	jusakul_CCA_TH_50		PHC	0		M	jusakul		positive			60	0	55.2279260780288			TRUE
+	CCA_TH_51	jusakul_CCA_TH_51		PHC	0		M	jusakul		positive			53	1	18.8254620123203			TRUE
+	CCA_TH_52	jusakul_CCA_TH_52		PHC	0		M	jusakul		positive			57	1	14.6858316221766			TRUE
+	CCA_TH_53	jusakul_CCA_TH_53		IHC	0		M	jusakul		positive	Positive	Negative	53	1	7.7864476386037			TRUE
+	CCA_TH_54	jusakul_CCA_TH_54		IHC	0		M	jusakul		positive			58	0	51.9425051334702			TRUE
+	CCA_TH_55	jusakul_CCA_TH_55		IHC	0		M	jusakul		positive	Negative	Negative	73	1	2.69404517453799			TRUE
+	CCA_TH_56	jusakul_CCA_TH_56		IHC	0		M	jusakul		positive	Negative	Negative	56	1	25.7905544147844			TRUE
+	CCA_TH_57	jusakul_CCA_TH_57		PHC	1		M	jusakul		positive			63	1	3.64681724845996			TRUE
+	CCA_TH_58	jusakul_CCA_TH_58		PHC	0		M	jusakul		positive	Negative	Negative	63	0	44.8788501026694			TRUE
+	CCA_TH_59	jusakul_CCA_TH_59		IHC	0		M	jusakul		positive			47	1	12.6160164271047			TRUE
+	CCA_TH_60	jusakul_CCA_TH_60		IHC	0		M	jusakul		positive			50	0	42.8090349075975			TRUE
+	CCA_TH_62	jusakul_CCA_TH_62		PHC	0		M	jusakul		positive			64	1	24.7063655030801			TRUE
+	CCA_TH_63	jusakul_CCA_TH_63		IHC	0		M	jusakul		positive			44	1	5.48665297741273			TRUE
+	CCA_TH_64	jusakul_CCA_TH_64		PHC	1		F	jusakul		positive			60	1	12.911704312115			TRUE
+	CCA_TH_65	jusakul_CCA_TH_65		IHC	0		M	jusakul		positive			42	1	9.13347022587269			TRUE
+	CCA_TH_66	jusakul_CCA_TH_66		IHC	0		M	jusakul		positive			62	1	23.917864476386			TRUE
+	CCA_TH_67	jusakul_CCA_TH_67		PHC	1		M	jusakul		positive			52	1	2.0041067761807			TRUE
+	CCA_TH_68	jusakul_CCA_TH_68		IHC	1		M	jusakul		positive			56	1	11.5318275154004			TRUE
+	CCA_TH_69	jusakul_CCA_TH_69		IHC	0		F	jusakul		positive			48	0	36.5010266940452			TRUE
+	CCA_TH_70	jusakul_CCA_TH_70		IHC	0		F	jusakul		positive			49	1	3.7782340862423			TRUE
+	CCA_TH_71	jusakul_CCA_TH_71		IHC	0		M	jusakul		positive			59	1	7.19507186858316			TRUE
+	CCA_TH_72	jusakul_CCA_TH_72		PHC	0		M	jusakul		positive			66	0	35.8439425051335			TRUE
+	CCA_TH_73	jusakul_CCA_TH_73		PHC	0		F	jusakul		positive			75	1	3.28542094455852			TRUE
+	CCA_TH_74	jusakul_CCA_TH_74		IHC	1		F	jusakul		positive			43	1	2.59548254620123			TRUE
+	CCA_TH_75	jusakul_CCA_TH_75		IHC	0		M	jusakul		positive			52	0	34.0698151950719			TRUE
+	CCA_TH_76	jusakul_CCA_TH_76		IHC	0		M	jusakul		positive			73	1	17.8069815195072			TRUE
+	CCA_TH_77	jusakul_CCA_TH_77		IHC	0		M	jusakul		positive			59	1	6.96509240246407			TRUE
+	CCA_TH_78	jusakul_CCA_TH_78		IHC	0		F	jusakul		positive			60	1	16.0328542094456			TRUE
+	CCA_TH_79	jusakul_CCA_TH_79		IHC	0		M	jusakul		positive			64	1	16.5913757700205			TRUE
+	CCA_TH_80	jusakul_CCA_TH_80		PHC	0		F	jusakul		positive			56	1	6.11088295687885			TRUE
+	CCA_TH_81	jusakul_CCA_TH_81		PHC	1		M	jusakul		positive			49	1	18.9568788501027			TRUE
+	CCA_TH_82	jusakul_CCA_TH_82		PHC	0		F	jusakul		positive			71	1	9.92197125256673			TRUE
+	CCA_TH_83	jusakul_CCA_TH_83		PHC	0		F	jusakul		positive			61	1	12.4517453798768			TRUE
+	CCA_TH_84	jusakul_CCA_TH_84		PHC	0		M	jusakul		positive			50	1	17.1827515400411			TRUE
+	CCA_TH_85	jusakul_CCA_TH_85		IHC	0		F	jusakul		positive			52	0	30.0944558521561			TRUE
+	CCA_TH_86	jusakul_CCA_TH_86		PHC	0		M	jusakul		positive			70	0	29.700205338809			TRUE
+	CCA_TH_87	jusakul_CCA_TH_87		PHC	0		M	jusakul		positive			67	0	29.6673511293635			TRUE
+	CCA_TH_88	jusakul_CCA_TH_88		IHC	0		M	jusakul		positive			64	1	15.0143737166324			TRUE
+	CCA_TH_89	jusakul_CCA_TH_89		IHC	0		F	jusakul		positive			66	1	3.58110882956879			TRUE
+	CCA_TH_90	jusakul_CCA_TH_90		PHC	0		M	jusakul		positive			56	0	28.35318275154			TRUE
+	CCA_TH_91	jusakul_CCA_TH_91		IHC	0		M	jusakul		positive			55	0	27.9917864476386			TRUE
+	CCA_TH_92	jusakul_CCA_TH_92		IHC	0		M	jusakul		positive			62	1	12.517453798768			TRUE
+	CCA_TH_93	jusakul_CCA_TH_93		IHC	0		F	jusakul		positive			64	1	3.44969199178645			TRUE
+	CCA_TH_94	jusakul_CCA_TH_94		PHC	0		M	jusakul		positive			52	0	26.4147843942505			TRUE
+	CCA_TH_95	jusakul_CCA_TH_95		IHC	0		M	jusakul		positive			65	1	9.82340862422998			TRUE
+	CCA_TH_96	jusakul_CCA_TH_96		PHC	0		F	jusakul		positive			44	1	8.6735112936345			TRUE
+	CCA_TH_97	jusakul_CCA_TH_97		PHC	0		F	jusakul		positive			65	0	24.8377823408624			TRUE
+	CCA_TH_98	jusakul_CCA_TH_98		PHC	0		F	jusakul		positive			45	1	2.56262833675565			TRUE
+	CCA_TH_99	jusakul_CCA_TH_99		IHC	0		M	jusakul		positive			63	1	10.3490759753593			TRUE
+	CCA_TH_100	jusakul_CCA_TH_100		PHC	0		M	jusakul		positive			54	0	23.4579055441479			TRUE
+	CCA_TH_101	jusakul_CCA_TH_101		IHC	0		M	jusakul		positive			70	1	9.75770020533881			TRUE
+	CCA_TH_102	jusakul_CCA_TH_102		IHC	0		M	jusakul		positive			66	1	1.64271047227926			TRUE
+	CCA_TH_103	jusakul_CCA_TH_103		IHC	0		F	jusakul		positive			60	1	2.72689938398357			TRUE
+	CCA_TH_104	jusakul_CCA_TH_104		PHC	1		F	jusakul		positive			57	1	1.1170431211499			TRUE
+	CCA_TH_105	jusakul_CCA_TH_105		IHC	0		M	jusakul		positive			51	1	6.14373716632444			TRUE
+	CCA_TH_106	jusakul_CCA_TH_106		PHC	0		M	jusakul		positive			64	1	4.8952772073922			TRUE
+	CCA_TH_107	jusakul_CCA_TH_107		PHC	0		F	jusakul		positive			61	0	14.2915811088296			TRUE
+	CCA_TH_108	jusakul_CCA_TH_108		IHC	0		M	jusakul		positive			70	0	12.911704312115			TRUE
+	CCA_TH_109	jusakul_CCA_TH_109		IHC	0		F	jusakul		positive			60	1	11.3675564681725			TRUE
+	CCA_TH_110	jusakul_CCA_TH_110		IHC	0		F	jusakul		positive			53	1	10.5462012320329			TRUE
+	CCA_TH_111	jusakul_CCA_TH_111		PHC	0		M	jusakul		positive			65	1	2.36550308008214			TRUE
+	CCA_TH_112	jusakul_CCA_TH_112		IHC	0		M	jusakul		positive			68	0	7.16221765913758			TRUE
+	CCA_TH_113	jusakul_CCA_TH_113		PHC	0		F	jusakul		positive			42	0	4.96098562628337			TRUE
+	CCA_TH_114	jusakul_CCA_TH_114		PHC	0		F	jusakul		positive			49	1	8.24640657084189			TRUE
+	CCA_TH_115	jusakul_CCA_TH_115		IHC	0		M	jusakul		positive			50	1	7.29363449691992			TRUE
+	CCA_TH_116	jusakul_CCA_TH_116		IHC	0		M	jusakul		positive	Negative	Negative	52	1	74.0205338809035			TRUE
+	CCA_TH_117	jusakul_CCA_TH_117		PHC	0		M	jusakul		positive	Negative	Negative	42	1	11.5318275154004			TRUE
+	CCA_TH_118	jusakul_CCA_TH_118		PHC	0		M	jusakul		positive	Negative	Negative	46	1	81.9055441478439			TRUE
+	CCA_TH_119	jusakul_CCA_TH_119		IHC	0		F	jusakul		positive	Negative	Negative	66	1	4.86242299794661			TRUE
+	CCA_TH_120	jusakul_CCA_TH_120		IHC	0		F	jusakul		positive	Negative	Negative	45	1	61.3716632443532			TRUE
+	CCA_TH_121	jusakul_CCA_TH_121		IHC	0		M	jusakul		positive	Negative	Negative	70	1	6.8993839835729			TRUE
+	CCA_TH_122	jusakul_CCA_TH_122		IHC	0		M	jusakul		positive	Negative	Negative	50	1	5.91375770020534			TRUE
+	CCA_TH_123	jusakul_CCA_TH_123		IHC	0		M	jusakul		positive	Negative	Negative	62	1	42.776180698152			TRUE
+	CCA_TH_124	jusakul_CCA_TH_124		IHC	0		M	jusakul		positive	Negative	Negative	69	1	14.0944558521561			TRUE
+	CCA_TH_125	jusakul_CCA_TH_125		IHC	0		F	jusakul		positive	Negative	Negative	51	1	5.15811088295688			TRUE
+	CCA_TH_126	jusakul_CCA_TH_126		IHC	0		F	jusakul		positive	Negative	Negative	64	1	24.7720739219713			TRUE
+	CCA_TH_127	jusakul_CCA_TH_127		PHC	0		F	jusakul		positive	Negative	Negative	51	1	20.0082135523614			TRUE
+	CCA_TH_128	jusakul_CCA_TH_128		PHC	0		M	jusakul		positive	Negative	Negative	55	1	11.170431211499			TRUE
+	CCA_TH_129	jusakul_CCA_TH_129		IHC	0		M	jusakul		positive	Negative	Negative	69	1	28.7802874743327			TRUE
+DO217850	CCA_TH_16	jusakul_CCA_TH_16		IHC	0		F	jusakul	SA601539	positive	Positive	Negative		1		FALSE	TRUE	
+DO217864	CCA_TH_20	jusakul_CCA_TH_20		IHC	0		M	jusakul	SA601551	positive			63	1	18.299794661191	FALSE	TRUE	
+DO218139	CCA_RO_1	jusakul_CCA_RO_1		IHC			M	jusakul	SA601591	negative			45	1		FALSE	TRUE	
+DO218227	CCA_TH_15	jusakul_CCA_TH_15		PHC	0		M	jusakul	SA601530	positive	Negative	Negative	37	1	15.605749486653	FALSE	TRUE	
+DO218351	CCA_TH_1	jusakul_CCA_TH_1		IHC	0		F	jusakul	SA601390	positive	Positive	Negative	49	1	5.48665297741273	FALSE	TRUE	
+DO218411	CCA_TH_22	jusakul_CCA_TH_22		IHC	0		F	jusakul	SA601566	positive	Negative	Negative	56	0	68.9609856262834	FALSE	TRUE	
+DO218417	CCA_TH_8	jusakul_CCA_TH_8		IHC	0		F	jusakul	SA601510	positive	Negative	Negative	53	1	8.73921971252567	FALSE	TRUE	
+DO218440	CCA_TH_3	jusakul_CCA_TH_3		PHC	0		F	jusakul	SA601399	positive			76	1	14.4558521560575	FALSE	TRUE	
+DO218491	CCA_SG_17	jusakul_CCA_SG_17		IHC	0		F	jusakul	SA601580	negative				1		FALSE	TRUE	
+DO218535	CCA_TH_10	jusakul_CCA_TH_10		IHC	0		F	jusakul	SA601520	positive			69	0	38.3737166324435	FALSE	TRUE	
+DO218550	CCA_TH_7	jusakul_CCA_TH_7		PHC	0		M	jusakul	SA601412	positive	Negative	Negative	61	1	14.9815195071869	FALSE	TRUE	
+DO218695	CCA_TH_5	jusakul_CCA_TH_5		PHC	0		M	jusakul	SA601406	positive			60	1	11.8275154004107	FALSE	TRUE	
+DO229323	CCA_SG_10	jusakul_CCA_SG_10		IHC	0		M	jusakul	SA599227	negative	Negative	Negative	74	0	27.6303901437372	TRUE	TRUE	
+DO229324	CCA_SG_11	jusakul_CCA_SG_11		IHC	0		F	jusakul	SA599229	negative	Negative	Negative	69	0	16.9856262833676	FALSE	TRUE	
+DO229325	CCA_SG_12	jusakul_CCA_SG_12		IHC	0		F	jusakul	SA599231	negative	Positive	Negative	61	0	50.5954825462012	TRUE	TRUE	
+DO229326	CCA_SG_13	jusakul_CCA_SG_13		IHC	0		M	jusakul	SA599233	negative			60	0	32.2628336755647	FALSE	TRUE	
+DO229327	CCA_SG_14	jusakul_CCA_SG_14		IHC			F	jusakul	SA599235	negative	Negative	Negative	61	0	36.5995893223819	FALSE	TRUE	
+DO229328	CCA_SG_15	jusakul_CCA_SG_15		IHC	0		M	jusakul	SA599238	negative	No record	No record	53	0	32.5256673511294	FALSE	TRUE	
+DO229329	CCA_SG_16	jusakul_CCA_SG_16		IHC	0		M	jusakul	SA599239	negative	Positive	Negative	55	0	28.4845995893224	FALSE	TRUE	
+DO229330	CCA_SG_18	jusakul_CCA_SG_18		EHC	0		F	jusakul	SA599241	negative	Negative	Negative	71	0	4.23819301848049	FALSE	TRUE	
+DO229331	CCA_SG_19	jusakul_CCA_SG_19		IHC	0		M	jusakul	SA599243	negative	Negative	Negative	75	0	18.2012320328542	FALSE	TRUE	
+DO229332	CCA_SG_20	jusakul_CCA_SG_20		IHC	0		M	jusakul	SA599246	negative	Negative	Negative	56	0	12.517453798768	FALSE	FALSE	
+DO229333	CCA_TH_2	jusakul_CCA_TH_2		PHC	0		M	jusakul	SA599247	positive			46	1	20.5338809034908	FALSE	TRUE	
+DO229334	CCA_TH_4	jusakul_CCA_TH_4		PHC	1		M	jusakul	SA599249	positive			53	1	0.985626283367557	FALSE	TRUE	
+DO229335	CCA_TH_6	jusakul_CCA_TH_6		IHC	0		F	jusakul	SA599251	positive	Negative	Negative	51	1	5.05954825462012	FALSE	TRUE	
+DO229336	CCA_TH_9	jusakul_CCA_TH_9		IHC	0		M	jusakul	SA599253	positive	Negative	Negative	48	0	12.2546201232033	FALSE	TRUE	
+DO229337	CCA_TH_11	jusakul_CCA_TH_11		IHC	0		F	jusakul	SA599255	positive			79	1	7.49075975359343	FALSE	TRUE	
+DO229338	CCA_TH_12	jusakul_CCA_TH_12		PHC	0		M	jusakul	SA599257	positive			52	1	10.0862422997947	FALSE	TRUE	
+DO229339	CCA_TH_13	jusakul_CCA_TH_13		PHC	0		M	jusakul	SA599259	positive			57	0	33.741273100616	FALSE	TRUE	
+DO229340	CCA_TH_14	jusakul_CCA_TH_14		IHC	0		F	jusakul	SA599261	positive			64	1	3.84394250513347	FALSE	TRUE	
+DO229341	CCA_TH_17	jusakul_CCA_TH_17		IHC	0		M	jusakul	SA599263	positive	Negative	Negative	66	1	2.10266940451745	FALSE	TRUE	
+DO229342	CCA_TH_18	jusakul_CCA_TH_18		IHC	0		M	jusakul	SA599265	positive			56	1	5.15811088295688	FALSE	TRUE	
+DO229343	CCA_TH_19	jusakul_CCA_TH_19		IHC	0		F	jusakul	SA599267	positive			65	1	5.81519507186858	FALSE	TRUE	
+DO229344	CCA_TH_21	jusakul_CCA_TH_21		IHC	0		F	jusakul	SA599269	positive	Negative	Negative	40	0	74.0862422997947	FALSE	TRUE	
+DO229355	CCA_CH_1	jusakul_CCA_CH_1		PHC	0		F	jusakul	SA599150	negative	Positive	Negative	49	1	13.9630390143737	FALSE	TRUE	
+DO229356	CCA_CH_2	jusakul_CCA_CH_2		PHC	0		F	jusakul	SA599159	positive	Negative	Negative	61			FALSE	TRUE	
+DO229357	CCA_CH_3	jusakul_CCA_CH_3		PHC	0		M	jusakul	SA599163	negative	Negative	Negative	46	1	11.3675564681725	FALSE	TRUE	
+DO229358	CCA_CH_4	jusakul_CCA_CH_4		EHC	0		M	jusakul	SA599165	negative	Negative	Negative	46	0	15.9671457905544	FALSE	TRUE	
+DO229359	CCA_CH_5	jusakul_CCA_CH_5		IHC	0		M	jusakul	SA599167	negative	Negative	Negative	75	0	20.4681724845996	FALSE	TRUE	
+DO229360	CCA_CH_6	jusakul_CCA_CH_6		IHC	0		F	jusakul	SA599171	negative	Negative	Negative	59	0	19.9753593429158	FALSE	FALSE	
+DO229361	CCA_CH_7	jusakul_CCA_CH_7		IHC	0		F	jusakul	SA599174	negative	Negative	Negative	71	1	2.26694045174538	FALSE	TRUE	
+DO229362	CCA_CH_8	jusakul_CCA_CH_8		IHC	0		M	jusakul	SA599178	negative	Negative	Negative	60	1	17.4784394250513	FALSE	TRUE	
+DO229363	CCA_IT_1	jusakul_CCA_IT_1		IHC	0		F	jusakul	SA599180	negative			69	0	35.1868583162218	FALSE	TRUE	
+DO229364	CCA_IT_2	jusakul_CCA_IT_2		IHC	0		F	jusakul	SA599182	negative			76	0	26.5133470225873	FALSE	TRUE	
+DO229365	CCA_IT_3	jusakul_CCA_IT_3		IHC	0		M	jusakul	SA599184	negative			53	1	9.72484599589322	FALSE	TRUE	
+DO229366	CCA_IT_4	jusakul_CCA_IT_4		IHC	0		M	jusakul	SA599186	negative			73	0	5.51950718685832	FALSE	TRUE	
+DO229367	CCA_JP_1	jusakul_CCA_JP_1		IHC	0		M	jusakul	SA599188	negative	Negative	Negative	64		62.5872689938398	FALSE	TRUE	
+DO229368	CCA_JP_2	jusakul_CCA_JP_2		IHC	0		M	jusakul	SA599189	negative	Negative	Negative	65	0	52.6981519507187	FALSE	TRUE	
+DO229369	CCA_JP_3	jusakul_CCA_JP_3		IHC	0		M	jusakul	SA599190	negative	Negative	Negative	60	0	57.6919917864476	FALSE	TRUE	
+DO229370	CCA_JP_4	jusakul_CCA_JP_4		IHC	0		M	jusakul	SA599191	negative	Negative	Negative	72	0	4.40246406570842	FALSE	TRUE	
+DO229371	CCA_JP_5	jusakul_CCA_JP_5		IHC	0		M	jusakul	SA599192	negative	Negative	Positive	62	1	14.8501026694045	FALSE	TRUE	
+DO229372	CCA_JP_6	jusakul_CCA_JP_6		IHC	0		M	jusakul	SA599193	negative	Positive	Negative	65	1	18.8583162217659	TRUE	TRUE	
+DO229373	CCA_JP_7	jusakul_CCA_JP_7		IHC	0		M	jusakul	SA599194	negative	Negative	Negative	67	1	14.0616016427105	FALSE	TRUE	
+DO229374	CCA_JP_8	jusakul_CCA_JP_8		IHC	0		M	jusakul	SA599195	negative	Positive	Negative	66	1	5.51950718685832	FALSE	TRUE	
+DO229375	CCA_JP_9	jusakul_CCA_JP_9		IHC	0		M	jusakul	SA599196	negative	Negative	Negative	60	1	2.95687885010267	FALSE	TRUE	
+DO229376	CCA_JP_10	jusakul_CCA_JP_10		IHC	0		M	jusakul	SA599198	negative	Negative	Negative	31	1	12.6817248459959	FALSE	TRUE	
+DO229377	CCA_RO_2	jusakul_CCA_RO_2		PHC	1		F	jusakul	SA599199	negative	Negative	Negative	49	1	19.8110882956879	FALSE	TRUE	
+DO229378	CCA_RO_3	jusakul_CCA_RO_3		PHC	0		M	jusakul	SA599200	negative	Negative	Negative	46	1	3.05544147843943	FALSE	TRUE	
+DO229379	CCA_RO_4	jusakul_CCA_RO_4		IHC			F	jusakul	SA599202	negative			53	1	30.9158110882957	FALSE	TRUE	
+DO229380	CCA_RO_5	jusakul_CCA_RO_5		IHC			F	jusakul	SA599203	negative	Negative	Negative	69	1	0.295687885010267	FALSE	TRUE	
+DO229381	CCA_RO_6	jusakul_CCA_RO_6		IHC			M	jusakul	SA599205	negative				1	1.60985626283368	TRUE	TRUE	
+DO229382	CCA_RO_7	jusakul_CCA_RO_7		DCC	0		M	jusakul	SA599207	negative	Negative	Negative	68	1	75.6960985626283	FALSE	TRUE	
+DO229383	CCA_SG_1	jusakul_CCA_SG_1		IHC	0		F	jusakul	SA599209	negative	Positive	Negative	73	0	7.62217659137577	FALSE	TRUE	
+DO229384	CCA_SG_2	jusakul_CCA_SG_2		IHC	0		F	jusakul	SA599211	negative	Positive	Negative	67	0	37.9137577002053	FALSE	TRUE	
+DO229385	CCA_SG_3	jusakul_CCA_SG_3		IHC	0		F	jusakul	SA599213	negative	Negative	Negative	51	0	28.1889117043121	FALSE	TRUE	
+DO229386	CCA_SG_4	jusakul_CCA_SG_4		IHC	0		M	jusakul	SA599216	negative	Positive	Negative	61	0	93.5687885010267	FALSE	TRUE	
+DO229387	CCA_SG_5	jusakul_CCA_SG_5		IHC	0		F	jusakul	SA599217	negative	Negative	Negative	78	0	17.1827515400411	FALSE	TRUE	
+DO229388	CCA_SG_6	jusakul_CCA_SG_6		IHC	0		M	jusakul	SA599219	negative	Negative	Negative	51	1	45.3716632443532	FALSE	TRUE	
+DO229389	CCA_SG_7	jusakul_CCA_SG_7		EHC	0		M	jusakul	SA599221	negative	Negative	Negative	68	0	29.5030800821355	FALSE	TRUE	
+DO229390	CCA_SG_8	jusakul_CCA_SG_8		IHC	0		M	jusakul	SA599223	negative	Positive	Negative	57	0	70.6365503080082	FALSE	TRUE	
+DO229391	CCA_SG_9	jusakul_CCA_SG_9		IHC	1		F	jusakul	SA599225	negative	Negative	Negative	60	1	2.98973305954825	FALSE	TRUE	
